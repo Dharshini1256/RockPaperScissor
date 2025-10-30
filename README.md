@@ -25,3 +25,15 @@ This project was created to understand the basics of Python programming, conditi
 3. Run the file using:
    ```bash
    python code.py
+   🌟 Learning Outcome
+
+This project helped me understand:
+
+Random number generation in Python
+
+Conditional logic for decision-making
+
+Basic use of loops and user input
+
+Fundamentals of version control using Git & GitHub
+
